@@ -16,7 +16,12 @@ body {
     list-style-type: none;
 }
 li {
-    list-style-type: none;
+    li {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        list-style-type: none;
+    }
 }
 
 #low {
@@ -27,3 +32,4 @@ li {
     width: 40px;
     height: 30px;
 }
+
