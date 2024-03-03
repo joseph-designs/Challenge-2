@@ -15,6 +15,9 @@ body {
     flex-wrap: wrap;
     list-style-type: none;
 }
+li {
+    list-style-type: none;
+}
 
 #low {
     border-style: dashed;
