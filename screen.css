@@ -2,6 +2,8 @@
 
 #bgimg {
     background-image: url('IncidentMap.png');
+    min-width: 95%;
+    min-height: 95%;
 }
 
 body {
