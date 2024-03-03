@@ -33,3 +33,20 @@ li {
     height: 30px;
 }
 
+#medium {
+    border-style: dashed;
+    border-color: purple;
+    border-width: 4px;
+    background-color: green;
+    width: 40px;
+    height: 30px;
+}
+
+#high {
+    border-style: dashed;
+    border-color: purple;
+    border-width: 4px;
+    background-color: green;
+    width: 40px;
+    height: 30px;
+}
