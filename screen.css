@@ -1,13 +1,13 @@
 /* Add screen styles below */
 
 #bgimg {
-    background-image: url('IncidentMap.png');
-    min-width: 95%;
-    min-height: 95%;
+
+    
 }
 
 body {
-
+    background-image: url('IncidentMap.png');
+    background-position: center;
 }
 
 .Heading {
@@ -22,18 +22,22 @@ body {
     flex-wrap: wrap;
     list-style-type: none;
     max-width: 164px;
+    max-height: 200px;
     height: max-content;
     background-color: red;
+    margin: 28px
     
     
 }
 
 h3 {
     margin-left: 16px;
+    margin-bottom: 12px;
 }
 
 ul {
-    padding: 0px
+    padding: 0px;
+    margin-top: 0px
 }
 
 li {
@@ -80,22 +84,34 @@ li {
 
 
 #popupcard {
-    width: 320px
+    width: fit-content
 
 }
 
 #cardheader {
     margin-left: 12px;
     margin-right: 130px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
 }
 
 #popupaddress {
     display: flex;
     background-color: #DB7900;
+    max-height: 32px;
+    vertical-align: middle;
 }
-.fa-solid fa-xmark {
-
+i {
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 #popuptext {
-    border-color: #DB7900;
+    border: 3px solid #DB7900;
+    max-width: 305px;
+}
+
+p {
+    margin-left: 12px;
+    margin-top: 12px;
 }
