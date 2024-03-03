@@ -6,7 +6,12 @@
 
 body {
 
+}
 
+.Heading {
+    background-color: #6A6A6A;
+    padding: 1px 20px 20px 0px;
+    margin-bottom: 20px;
 }
 
 .dmg {
