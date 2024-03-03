@@ -1,5 +1,9 @@
 /* Add screen styles below */
 
+#bgimg {
+    background-image: url('IncidentMap.png');
+}
+
 body {
-    background-image: url ("IncidentMap.png");
+
 }
