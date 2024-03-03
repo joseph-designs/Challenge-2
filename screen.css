@@ -9,8 +9,18 @@ body {
 
 }
 
+.dmg {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
 #low {
-    color: green;
+    border-style: dashed;
+    border-color: purple;
+    border-width: 4px;
+    background-color: green;
     width: 40px;
     height: 30px;
 }
