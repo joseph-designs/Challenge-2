@@ -18,17 +18,24 @@ body {
     height: max-content;
     background-color: red;
     
+    
 }
 
 h3 {
     margin-left: 16px;
 }
+
+ul {
+    padding: 0px
+}
+
 li {
 
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     list-style-type: none;
+    
 }
 
 #low {
@@ -49,6 +56,8 @@ li {
     background-color: green;
     width: 40px;
     height: 30px;
+    margin-right: 15px;
+    margin-left: 16px;
 }
 
 #high {
@@ -58,4 +67,6 @@ li {
     background-color: green;
     width: 40px;
     height: 30px;
+    margin-right: 15px;
+    margin-left: 16px;
 }
