@@ -16,12 +16,11 @@ body {
     list-style-type: none;
 }
 li {
-    li {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        list-style-type: none;
-    }
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
 }
 
 #low {
