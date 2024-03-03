@@ -80,9 +80,17 @@ li {
 
 
 #popupcard {
+    width: 320px
 
 }
+
+#cardheader {
+    margin-left: 12px;
+    margin-right: 130px;
+}
+
 #popupaddress {
+    display: flex;
     background-color: #DB7900;
 }
 .fa-solid fa-xmark {
