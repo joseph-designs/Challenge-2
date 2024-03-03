@@ -77,3 +77,14 @@ li {
     margin-right: 15px;
     margin-left: 16px;
 }
+
+
+#popupcard {
+
+}
+#popupaddress {
+    background-color: #DB7900;
+}
+#popuptext {
+    border-color: #DB7900;
+}
