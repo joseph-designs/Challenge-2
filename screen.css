@@ -83,7 +83,6 @@ li {
 
 
 #popupcard {
-    color: #ffffff;
     width: fit-content;
     position: absolute;
     top: 50%;
@@ -100,6 +99,7 @@ li {
 }
 
 #popupaddress {
+    color: #ffffff;
     display: flex;
     background-color: #DB7900;
     max-height: 32px;
