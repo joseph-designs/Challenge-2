@@ -20,7 +20,7 @@ h1 {
     flex-direction: row;
     flex-wrap: wrap;
     list-style-type: none;
-    max-width: 164px;
+    max-width: 200px;
     max-height: 200px;
     height: max-content;
     background-color: #ffffff;
