@@ -1,5 +1,9 @@
 /* Add screen styles below */
 
+#welcome { opacity:0; transition: opacity 1s; }
+.opac{opacity: 1 !important;}
+
+
 body {
     background-image: url('IncidentMap.png');
     background-position: center;
@@ -110,3 +114,4 @@ p {
     margin-left: 12px;
     margin-top: 12px;
 }
+
