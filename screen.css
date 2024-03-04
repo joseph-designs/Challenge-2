@@ -4,7 +4,7 @@
 body {
     background-image: url('IncidentMap.png');
     background-position: center;
-    font-family: "Inter" sans-serif;
+    font-family: "Inter", sans-serif;
 }
 
 h1 {
