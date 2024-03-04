@@ -5,10 +5,12 @@ body {
     background-position: center;
 }
 
-.Heading {
-    background-color: #6A6A6A;
-    padding: 1px 20px 20px 0px;
-    margin-bottom: 20px;
+h1 {
+    color: #ffffff;
+    background-color: #47835D;
+    padding: 20px 20px 20px 20px;
+    margin: 0px;
+
 }
 
 .dmg {
