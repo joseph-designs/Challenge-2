@@ -121,3 +121,23 @@ p {
     margin-top: 12px;
 }
 
+
+.maphigh {
+    border-style: dashed;
+    border-color: #C10000;
+    border-width: 4px;
+    background-color: rgb(224, 40, 40, 40%);
+    position:absolute;
+    right: 0px;
+    z-index: 9999;
+    width: 200px;
+    hight: 150px;
+}
+
+.mapmedium {
+
+}
+
+.maplow {
+
+}
