@@ -125,7 +125,7 @@ p {
 
 .maphigh {
     position: absolute;
-    left: 70%;
+    left: 60%;
     top:30%;
     width: 400px;
     height: 300px;
@@ -175,7 +175,7 @@ p {
 
 #house1 {
     position:absolute;
-    left: 80%;
+    left: 70%;
     top: 45%;
     color: white;
 }
