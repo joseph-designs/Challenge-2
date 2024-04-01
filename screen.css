@@ -159,3 +159,16 @@ p {
     background-color: rgb(27, 200, 98 , 40%);
 
 }
+
+.maplow2 {
+    position: absolute;
+    left: 20%;
+    top:90%;
+    width: 150px;
+    height: 150px;
+    border-style: dashed;
+    border-color: #009a3f;
+    border-width: 4px;
+    background-color: rgb(27, 200, 98 , 40%);
+
+}
