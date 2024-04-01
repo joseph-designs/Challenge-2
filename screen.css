@@ -172,3 +172,17 @@ p {
     background-color: rgb(27, 200, 98 , 40%);
 
 }
+
+#house1 {
+    position:absolute;
+    left: 80%;
+    top: 45%;
+    color: white;
+}
+
+#house2 {
+    position:absolute;
+    left: 28%;
+    top: 95%;
+    color: black
+}
